@@ -1,0 +1,1 @@
+IN_ALL_EVENTS = 0xfff
